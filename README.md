@@ -168,8 +168,8 @@ endmodule
 ![Screenshot 2025-05-21 163301](https://github.com/user-attachments/assets/4dc3ff0b-9533-4acd-98d2-e24df31eb513)
 
 ## Simulation Results
+![Screenshot 2025-05-24 133033](https://github.com/user-attachments/assets/f80beb88-5e12-43aa-9bd8-139b5a9334b2)
 
-![Screenshot 2025-05-21 163243](https://github.com/user-attachments/assets/e7e22fcd-2e89-478a-9ccf-321bf9d6a07c)
 
 
 ## Results
